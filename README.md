@@ -1,1 +1,1 @@
-# terraform-virtualbox-vms
+# vagrant-virtualbox-vms
